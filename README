@@ -1,0 +1,8 @@
+This project is a byproduct of the learning process of a LinkedIn Learning Course. The link to the project is listed below. 
+https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react/modern-javascript?u=55034593
+
+Structure of this project: 
+    3 Nodes:
+        - Web server
+        - React components(front-end and back-end)
+        - API server
